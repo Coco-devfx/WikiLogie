@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100dvh;
-  font-family: Arial, sans-serif;
+  font-family: Macondo, sans-serif;
   font-size: 1.6rem;
   background-color: white;
 }
@@ -431,6 +431,7 @@ footer {
   color: #666;
   background-color: white;
 }
+
 
 
 
