@@ -241,6 +241,9 @@ h1, h2 {
   margin-left: 3%;
   margin-right: 45%;
 }
+h1 {
+  font-family: "Macondo", cursive;
+}
 
 table {
   max-width: 95%;
@@ -431,6 +434,7 @@ footer {
   color: #666;
   background-color: white;
 }
+
 
 
 
