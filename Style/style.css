@@ -6,6 +6,12 @@ body {
   background-color: white;
 }
 
+.macondo-regular {
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body.dark-mode {
   background-color: black;
   color: white;
@@ -425,6 +431,7 @@ footer {
   color: #666;
   background-color: white;
 }
+
 
 
 
