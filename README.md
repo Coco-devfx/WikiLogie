@@ -1,1 +1,1 @@
-Ce projet est un site web que j'ai fait tout seul de A à Z, en Août 2025
+Ce projet est un site web que j'ai fait tout seul de A à Z, en Août 2025, en environs 15 jours. J'ai réalisé WikiLogie pour essayer de m'améliorer en programmation. Il est à titre informatif pour apprendre la mythologie Grec. J'ai fait la partit histoire avec l'aide de l'IA et quelques recherches, ce qui m'a permis d'apprendre aussi cette mythologie. Dans les choses que je n'ai pas reussi a encore faire il y a le responsive design pour l'adapter à n'importe quelle taille d'écrans.
